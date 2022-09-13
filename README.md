@@ -24,9 +24,9 @@ To get started, follow these steps:
 
 1. Open folder containing the project in VSCode
 
-2. Type command/shift/p to bring up the command pallete
+2. Type command/shift/p to bring up the command pallette
 
-3. Type Remote Containers: Reopen in container and hit enter again
+3. Type "Remote Containers: Reopen in container" and hit enter again
 
 4. Wait for the container to build and start, this may take a while the first time. Once the 
 build is complete, type F5 to start debugging the project.
