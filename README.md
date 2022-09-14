@@ -36,6 +36,6 @@ build is complete, type F5 to start debugging the project.
 ## Source Control
 The container project uses git for source control. If you use git SSH keys, make sure to set ForwardAgent yes for any key you want to share with the container.
 
-## Running Project locally
+# Running Project locally
 1. Run ```npm i``` to install dependencies
 2. Run ```npm run dev``` to start the project
